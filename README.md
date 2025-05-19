@@ -6,7 +6,7 @@ A modern, responsive web UI that replicates the customer support experience insp
 
 ## 🌐 Live Preview
 
-[View Demo](#) — *()*
+[View Demo](#) — *(https://fin-style-ai.vercel.app/)*
 
 
 ## 🧩 Features
